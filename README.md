@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
+Se utulizo para el backen Firebase y se conecto con Angular , ademas se utilizo la libreria de Angular Material. 
+es un proyecto aun en construccion. 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
